@@ -7,7 +7,6 @@ import org.junit.runner.RunWith;
 @CucumberOptions (
         features = "src/test/resources/features/demoblaze.feature",
         glue = "co.com.tcs.certification.retotuya.stepdefinitions",
-        tags = "@tag",
         snippets = SnippetType.CAMELCASE )
 public class DemoBlaze {
 }

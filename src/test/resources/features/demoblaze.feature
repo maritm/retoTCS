@@ -6,7 +6,7 @@ Feature: page demoblaze
     Given that Marilyn wants to enter the page
 
 
-  @tag
+
   Scenario: register user
     When the user enters the data
       | userName       | password   |
@@ -15,14 +15,14 @@ Feature: page demoblaze
 
 
 
-  @tag
+
   Scenario: authentication user
     When the user enters the data for auth
       | userName       | password   |
       | marilyntenorio | mari123456 |
     Then should see the authenticated user
 
-  @tag
+
   Scenario: add product
     When the user selects the product from the Laptops section
       | userName       | password   |
@@ -30,7 +30,7 @@ Feature: page demoblaze
     Then should check the MacBook Pro product in the cart
 
 
-  @tag
+
   Scenario: register form
     When the user enters the data for form
       | contactEmail             | contactName     | message                |
