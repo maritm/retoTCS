@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="page demoblaze" tests="4" skipped="4" failures="0" errors="0" timestamp="2021-07-14T22:34:53" hostname="CHMEPPF0GZSM2" time="0.638">
+  <properties/>
+  <testcase name="register user" classname="page demoblaze" time="0.058">
+    <skipped/>
+  </testcase>
+  <testcase name="authentication user" classname="page demoblaze" time="0.023">
+    <skipped/>
+  </testcase>
+  <testcase name="register form" classname="page demoblaze" time="0.126">
+    <skipped/>
+  </testcase>
+  <testcase name="add product" classname="page demoblaze" time="0.111">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[[Test worker] INFO net.serenitybdd.core.Serenity - TEST PENDING
+[Test worker] INFO net.serenitybdd.core.Serenity - TEST PENDING
+[Test worker] INFO net.serenitybdd.core.Serenity - TEST PENDING
+[Test worker] INFO net.serenitybdd.core.Serenity - 
+          __  _____ _____ ____ _____   ____  _____ _   _ ____ ___ _   _  ____ 
+ _       / / |_   _| ____/ ___|_   _| |  _ \| ____| \ | |  _ \_ _| \ | |/ ___|
+(_)____ / /    | | |  _| \___ \ | |   | |_) |  _| |  \| | | | | ||  \| | |  _ 
+ |_____/ /     | | | |___ ___) || |   |  __/| |___| |\  | |_| | || |\  | |_| |
+(_)   /_/      |_| |_____|____/ |_|   |_|   |_____|_| \_|____/___|_| \_|\____|
+                                                                                
+
+TEST PENDING: register user
+---------------------------------------------------------------------------------
+[Test worker] INFO net.serenitybdd.core.Serenity - TEST PENDING
+[Test worker] INFO net.serenitybdd.core.Serenity - TEST PENDING
+[Test worker] INFO net.serenitybdd.core.Serenity - TEST PENDING
+[Test worker] INFO net.serenitybdd.core.Serenity - 
+          __  _____ _____ ____ _____   ____  _____ _   _ ____ ___ _   _  ____ 
+ _       / / |_   _| ____/ ___|_   _| |  _ \| ____| \ | |  _ \_ _| \ | |/ ___|
+(_)____ / /    | | |  _| \___ \ | |   | |_) |  _| |  \| | | | | ||  \| | |  _ 
+ |_____/ /     | | | |___ ___) || |   |  __/| |___| |\  | |_| | || |\  | |_| |
+(_)   /_/      |_| |_____|____/ |_|   |_|   |_____|_| \_|____/___|_| \_|\____|
+                                                                                
+
+TEST PENDING: authentication user
+---------------------------------------------------------------------------------
+[Test worker] INFO net.serenitybdd.core.Serenity - TEST PENDING
+[Test worker] INFO net.serenitybdd.core.Serenity - TEST PENDING
+[Test worker] INFO net.serenitybdd.core.Serenity - TEST PENDING
+[Test worker] INFO net.serenitybdd.core.Serenity - 
+          __  _____ _____ ____ _____   ____  _____ _   _ ____ ___ _   _  ____ 
+ _       / / |_   _| ____/ ___|_   _| |  _ \| ____| \ | |  _ \_ _| \ | |/ ___|
+(_)____ / /    | | |  _| \___ \ | |   | |_) |  _| |  \| | | | | ||  \| | |  _ 
+ |_____/ /     | | | |___ ___) || |   |  __/| |___| |\  | |_| | || |\  | |_| |
+(_)   /_/      |_| |_____|____/ |_|   |_|   |_____|_| \_|____/___|_| \_|\____|
+                                                                                
+
+TEST PENDING: register form
+---------------------------------------------------------------------------------
+[Test worker] INFO net.serenitybdd.core.Serenity - TEST PENDING
+[Test worker] INFO net.serenitybdd.core.Serenity - TEST PENDING
+[Test worker] INFO net.serenitybdd.core.Serenity - TEST PENDING
+[Test worker] INFO net.serenitybdd.core.Serenity - 
+          __  _____ _____ ____ _____   ____  _____ _   _ ____ ___ _   _  ____ 
+ _       / / |_   _| ____/ ___|_   _| |  _ \| ____| \ | |  _ \_ _| \ | |/ ___|
+(_)____ / /    | | |  _| \___ \ | |   | |_) |  _| |  \| | | | | ||  \| | |  _ 
+ |_____/ /     | | | |___ ___) || |   |  __/| |___| |\  | |_| | || |\  | |_| |
+(_)   /_/      |_| |_____|____/ |_|   |_|   |_____|_| \_|____/___|_| \_|\____|
+                                                                                
+
+TEST PENDING: add product
+---------------------------------------------------------------------------------
+]]></system-err>
+</testsuite>
