@@ -10,9 +10,9 @@ Pre-requisitos
 
 Instalación 
 ---
-* Clonar el proyecto (https://github.com/) ejecutando el siguiente comando
+* Clonar el proyecto (https://github.com/maritm/retoTCS.git) ejecutando el siguiente comando
 ```git
-git clone https://github.com/
+git clone https://github.com/maritm/retoTCS.git
 ```
 * Puede realizar tareas por defecto de Gradle como compilar o ejecutar a través de los siguientes comandos (*es necesario ubicarse en la raíz del proyecto para ejecutarlos*) :
 
